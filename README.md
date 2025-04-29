@@ -2,8 +2,6 @@
 
 ## ✨ 4px - Four Pixel
 
-> Menggabungkan kekuatan **Augmented Reality (AR)** dan **Python** dalam satu proyek visual interaktif yang revolusioner.
-
 ---
 
 ## 🔗 Artifact Links
