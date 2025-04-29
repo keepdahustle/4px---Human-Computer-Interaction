@@ -6,7 +6,7 @@
 
 ## 🔗 Artifact Links
 
-- 🎨 **Figma Design**: [Klik di sin](https://www.figma.com/design/gWKT7zBxwylaLBzschQVlQ/ARPY?node-id=0-1&t=uWamQoU1gd6bl1LK-1)
+- 🎨 **Figma Design**: [Klik di sini](https://www.figma.com/design/gWKT7zBxwylaLBzschQVlQ/ARPY?node-id=0-1&t=uWamQoU1gd6bl1LK-1)
 - 📊 **Spreadsheet Gantt chart**: [Klik di sini](https://docs.google.com/spreadsheets/d/1oQdrG_WEIawXh576PXIbAzzWUySZZHnDhO41yDDHOM8/edit?usp=sharing)
 
 ---
